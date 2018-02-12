@@ -1,0 +1,7 @@
+NAME=cmake
+VERSION=3.10.2
+REVISION=1
+SRC=https://cmake.org/files/v3.10/cmake-3.10.2.tar.gz
+SRCMD5=732808e17fc14dc8cee50d51518c34eb
+BUILDDEPS=libuv
+INSTALLDEPS=libuv
